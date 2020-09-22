@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*%Illustrator Pathfinder Effects*](https://rd.springer.com/video/10.1007%isbn%) by Jennifer Harder (Apress, 2020).
+This repository accompanies [*Illustrator Pathfinder Effects*](https://rd.springer.com/video/10.1007/978-1-4842-6581-9) by Jennifer Harder (Apress, 2020).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484265819.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
